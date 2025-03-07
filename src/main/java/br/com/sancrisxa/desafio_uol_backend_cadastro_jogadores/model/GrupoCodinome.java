@@ -21,5 +21,4 @@ public enum GrupoCodinome {
     public String getUri() {
         return uri;
     }
-
 }
